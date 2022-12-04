@@ -17,6 +17,7 @@
 
 ---
 
+<br>
 
 ## Course Description
 
@@ -51,7 +52,7 @@ It is also recommended to review the additional readings/resources provided in t
 **Attendance policy:** Your class attendance is mandatory. Failure to properly inform me of a foreseen or unforeseen conflict before class time will result in a diminished participation grade. SIPA no longer offers a Zoom option for class.
 
 **Required materials for purchase:** Bringing a laptop computer to class is a requirement. There are no additional materials for purchase required for this course.  
-
+<br>
 
 ## Assignments and Grades
 
@@ -65,25 +66,31 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 
 
-- Homework assignments:
-    - There are 10 homework assignments, each worth 10 points.
-    - **Each homework assignment is due by 10am before the start of class**. 
-        - Due week 2: 
-            - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
-                - Send me by email screenshots of your opened applications. 
-            - Create a GitHub Account and join our GitHub classroom by accepting our first GitHub assignment.
-        - Due week 3: 
-            - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
-        - Due weeks 4 - 11: Work through the curriculum for the upcoming week's session, and share your codebook. You are welcome to use the data provided in the curriculum for each session or to import your own dataset. 
-            - I'll know you've completed the homework once [you've forked](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) your work to [our GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python). 
+Homework assignments:
+- There are 10 homework assignments, each worth 10 points.
+- **Each homework assignment is due by 10am before the start of class**. 
+    - Due week 2: 
+        - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
+             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
+    - Due week 3: 
+        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Due weeks 4 - 11: Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        - You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+- Note: These weekly homework assignments are not meant to be tricky. You will basically be copying the code from the curriculum. However, you may hit errors in your code. This could be a simple error due to syntax or something more complicated. I want to see how you worked through that error. You can share links to solutions you found online. The point is to share your process! You are more likely to encounter errors when you use your own dataset. However, once you know what you are working on for your final project, I recommend using your final project dataset to try the homework so you can get feedback from me and also get a head start of completing the final project assignment. 
+   
+<br> 
 
-- Final project: For the final project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final draft will be shared via your GitHub account. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
 
-    - Final project deliverables and grade distribution: 
-        - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
-        - Due week 8 (40 points): Project proposal **due by 10am before the start of class.**
-        - Due week 12 (40 points): Final project** due by 10am before the start of class.**
-        - Due week 12 (10 points): In-class project presentations. 
+Final project: For the final project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final draft will be shared via your GitHub account. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
+
+- Final project deliverables and grade distribution: 
+    - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
+    - Due week 8 (40 points): Project proposal **due by 10am before the start of class.**
+     - Due week 12 (40 points): Final project** due by 10am before the start of class.**
+     - Due week 12 (10 points): In-class project presentations. 
+
+     <br>
+
 
 **Grading structure:**
 
@@ -91,6 +98,7 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 - Homework assignments 40%
 - Final project 50%
 
+<br>
 
 ## Python Tech Requirements & Installations 
 
@@ -103,6 +111,7 @@ Bringing a laptop computer to class is a requirement for this course. By week 2,
 
 ---
 
+<br>
 
 ## Class Schedule & Curricula
 
@@ -118,6 +127,14 @@ This week, we will review the syllabus and the course objectives. We will also d
     - Getting the most out of this class
     - Final projects
 
+- Requirement in two steps: 
+    - Due by Friday 1/20 at 11:59pm:
+        - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
+        - Accept [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our GitHub organization
+    - Due by Sunday 1/22 at 11:59pm:
+        - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
+
+
 **Week 2 (1/26): The Command Line**
 
 This week, we will learn the command line, which is a way of interacting with your computer without using your mousepad to complete tasks. For example, instead of manually creating a new folder, we will learn how to do that by typing a command. Knowing how to use the command line is an important first step towards learning how to program in Python. 
@@ -128,12 +145,10 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and email me screenshots when your installation is complete:
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
-    - [Create a Github Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-    - Complete this dummy assignment so I can add you to our Github classroom
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
@@ -146,7 +161,7 @@ This week, we will learn the command line, which is a way of interacting with yo
 
 This week, we will learn how to use Git and Github, which are powerful tools for collaborative and individual projects. Git is a version control software that aids with tracking changes made to a set of files over time. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments with me. Having a GitHub page with evidence of your programming work can serve as a programming portfolio when applying for jobs. 
 
-We will also get started with learning some basic Python commands using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/),  an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
+We will also get started with learning some basic Python commands using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
 
 - Topics covered:
     - What are Git and Github?
@@ -155,8 +170,7 @@ We will also get started with learning some basic Python commands using [Jupyter
     - Python basics: Intro to Jupyter Notebooks, Python Variables, Data Types, String Methods
 - Curriculum for this session:
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Install Python & Jupyter - Python String Methods)
-    - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e) 
+    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
 - Assignments (due by 10am on the day of class):
     - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
 - Additional readings/resources (not required, but useful!):
@@ -165,6 +179,7 @@ We will also get started with learning some basic Python commands using [Jupyter
         - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
         - DHRI: [Short Introduction to Jupyter Notebooks](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
+        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
 
 **Week 4 (week of 2/9): Python Basics II**
 
@@ -178,9 +193,8 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session. 
-    - Gist your Jupyter Notebook file.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice.  
 - Final project deliverable:
     - Schedule a meeting with me to discuss ideas for your final project 
 - Additional readings/resources (not required, but useful!):
@@ -206,9 +220,8 @@ We will be using the Pandas and Plotly Python libraries to help us achieve our d
     - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
@@ -228,9 +241,8 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
@@ -251,9 +263,8 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Web Scraping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) parts [I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) & [II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/03-Web-Scraping-Part2.html)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Looking ahead:
     - In week 9, we will work with the Twitter API. It can take a few weeks to get approved for a researcher account, so I suggest getting started now. Follow [these instructions](https://developer.twitter.com/en/products/twitter-api/academic-research/application-info) to apply!
 - Additional readings/resources (not required, but useful!):
@@ -265,6 +276,13 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
 
 **Week 8 (3/9): Data collection: Working with APIs**
 
+<br>
+
+
+<div align="center">**This session will take place on Zoom**</div>
+
+<br>
+
 This week, we will learn how to make data requests from an Application Programming Interface (API). APIs allow users to programmatically extract and interact with data under the hood of websites, social networks, applications, and projects. For example, the weather app on your phone connects to the weather bureau's API system, which contains daily weather data, and shows you daily weather updates. We will specifically work with the free version of News API for collecting news data. 
 
 - Topics covered:
@@ -274,9 +292,8 @@ This week, we will learn how to make data requests from an Application Programmi
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset). 
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Final project deliverable:
     - Project proposals due
 - Additional readings/resources (not required, but useful!):
@@ -285,7 +302,13 @@ This week, we will learn how to make data requests from an Application Programmi
     - Cheat sheets:
         - Python for Beginners: [List of Python API's](https://www.pythonforbeginners.com/api/list-of-python-apis) 
 
+<br>
+
+
 <div align="center">**Spring break (3/13 - 3/17)**</div>
+
+<br>
+
 
 **Week 9 (3/23): Data collection: Connecting to the Twitter API with twarc2 + connecting to other social media platform**
 
@@ -299,9 +322,8 @@ This week, we will learn how to make data requests from the Twitter API using tw
 -  Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Twitter Data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html) (Twitter API setup, Data collection & Analysis, Data Sharing)
 - Assignments (due by 10am on the day of class):
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - [twarc documentation](https://twarc-project.readthedocs.io/en/latest/)
@@ -342,9 +364,8 @@ This week, we will learn how to perform a sentiment analysis using Twitter data.
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
 - Assignments due before class:
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Analytics Vidhya: [Performing Sentiment Analysis Using Twitter Data!](https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/)
@@ -372,9 +393,8 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
 - Assignments due before class:
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Brandon Rose: [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna)
@@ -404,9 +424,8 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling Overview](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/06-Topic-Modeling-Overview.html) & [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html)
 - Assignments due before class:
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Explainers:
         - Evans School Policy Analysis & Research Group (EPAR), University of Washington: [Guide to Topic Modeling for Qualitative Research – Building the Model (Part 1)](https://epar.evans.uw.edu/blog/guide-topic-modeling-qualitative-research-building-model-part-1)
@@ -440,9 +459,8 @@ For our final course content week, we will learn about term frequency-inverse do
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
 - Assignments due before class:
-    - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session (note: you are welcome to use either the dataset provided in the curriculum or your own dataset).
-    - Push [the Jupyter Notebook file](https://blog.reviewnb.com/github-jupyter-notebook/) to your GitHub repository.
-    - [Fork it](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.) to our [class GitHub repository](https://github.com/rskrisel/S23-Analyzing-Text-as-Data-in-Python).
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Analytics Vidhya:[ Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)
@@ -461,6 +479,7 @@ For our final course content week, we will learn about term frequency-inverse do
 - Final project in class presentations.
 
 ---
+<br>
 
 ## Class Policies
 
