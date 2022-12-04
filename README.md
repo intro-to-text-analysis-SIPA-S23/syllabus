@@ -71,9 +71,9 @@ Homework assignments:
 - **Each homework assignment is due by 10am before the start of class**. 
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
-             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
+             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R). 
     - Due week 3: 
-        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
     - Due weeks 4 - 11: Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
         - You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Note: These weekly homework assignments are not meant to be tricky. You will basically be copying the code from the curriculum. However, you may hit errors in your code. This could be a simple error due to syntax or something more complicated. I want to see how you worked through that error. You can share links to solutions you found online. The point is to share your process! You are more likely to encounter errors when you use your own dataset. However, once you know what you are working on for your final project, I recommend using your final project dataset to try the homework so you can get feedback from me and also get a head start of completing the final project assignment. 
@@ -130,7 +130,7 @@ This week, we will review the syllabus and the course objectives. We will also d
 - Requirement in two steps: 
     - Due by Friday 1/20 at 11:59pm:
         - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-        - Accept [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our GitHub organization
+        - Accept [this dummy assignment](https://classroom.github.com/a/ImDJRwfh) so I can add you to our GitHub organization
     - Due by Sunday 1/22 at 11:59pm:
         - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
 
@@ -145,7 +145,7 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
@@ -172,7 +172,7 @@ We will also get started with learning some basic Python commands using [Jupyter
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
@@ -193,7 +193,7 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/HxXtJMlE).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice.  
 - Final project deliverable:
     - Schedule a meeting with me to discuss ideas for your final project 
@@ -220,7 +220,7 @@ We will be using the Pandas and Plotly Python libraries to help us achieve our d
     - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/YKHVp4b_).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Explainers: 
@@ -241,7 +241,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
 - Assignments (due by 10am on the day of class):
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/K1bJ8ev-).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
@@ -263,7 +263,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Web Scraping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) parts [I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) & [II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/03-Web-Scraping-Part2.html)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/bQcsUg5o).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Looking ahead:
     - In week 9, we will work with the Twitter API. It can take a few weeks to get approved for a researcher account, so I suggest getting started now. Follow [these instructions](https://developer.twitter.com/en/products/twitter-api/academic-research/application-info) to apply!
@@ -292,7 +292,7 @@ This week, we will learn how to make data requests from an Application Programmi
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
 - Assignments (due by 10am on the day of class):
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/dGItNBTB).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Final project deliverable:
     - Project proposals due
@@ -322,7 +322,7 @@ This week, we will learn how to make data requests from the Twitter API using tw
 -  Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Twitter Data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html) (Twitter API setup, Data collection & Analysis, Data Sharing)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/yZsoL-5U).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
@@ -364,7 +364,7 @@ This week, we will learn how to perform a sentiment analysis using Twitter data.
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
 - Assignments due before class:
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/1JcvZSoP).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
@@ -393,7 +393,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
 - Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/SkwxPH21).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
@@ -424,7 +424,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling Overview](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/06-Topic-Modeling-Overview.html) & [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html)
 - Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/8c5WZwWm).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Explainers:
@@ -447,7 +447,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
         - Walker, Richard M., Yanto Chandra, Jiasheng Zhang, and Arjen van Witteloostuijn. "Topic Modeling the Research-Practice Gap in Public Administration." _Public Administration Review_ 79, no. 6 (2019): 931-37.[ https://doi.org/10.1111/puar.13095](https://doi.org/10.1111/puar.13095).
             * This study uses topic modeling to highlight which areas of public administration receive more attention than others. 
 
-**Week 13 (week of 4/20): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
+**Week 13 (4/20): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
 
 For our final course content week, we will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
 
@@ -459,7 +459,7 @@ For our final course content week, we will learn about term frequency-inverse do
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
 - Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/ebRfjrYa).
         -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
