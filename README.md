@@ -58,7 +58,7 @@ It is also recommended to review the additional readings/resources provided in t
 
 **Grading policy:**
 
-As a beginner's coding class geared towards nonprogrammers, the emphasis is not on getting the right answer (though, unfortunately a code will not run with errors), but on the process you bring to bear in attempting to figure out how to work through some of the errors in your code you will undoubtedly face. To that end, across all of your assignments, I encourage you to share the questions you searched for online and the tutorials/resources you utilized on your quest to course-correcting your script. It's okay if you are not able to actually solve the error as long as you show a good-faith attempt at troubleshooting!
+As a beginner's coding class geared towards nonprogrammers, the emphasis is not on getting the right answer (though, unfortunately a code will not run with errors), but on the process you bring to bear in attempting to figure out how to work through some of the errors in your code you will undoubtedly face. To that end, across all of your assignments, I encourage you to share the questions you searched for online and the tutorials/resources you utilized on your quest to course-correcting your script. 
 
 **Late policy:** No assignments will be evaluated late. Any late assignment will be given a zero. If you have a personal emergency, or foresee a conflict in advance, please get in touch with me as soon as possible. 
 
