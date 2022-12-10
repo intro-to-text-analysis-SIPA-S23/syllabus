@@ -43,7 +43,7 @@ This course is developed for beginners with no prior coding experience. That bei
 
 **How to get the most out of this course?** 
 
-For each weekly session, a link to the curriculum is provided in the class schedule. Having a chance to read through the curriculum and test out the code before class allows you to focus on the why and what of the code during the class session. It also gives you the opportunity to troubleshoot any errors in advance and prepare questions for clarification. This is why, starting in week 4 and ending in week 11, you will be required to share your attempts at working through the curriculum for the upcoming session as your homework assignment (more on that below). However, it is highly recommended that you begin this practice starting in week 2 when we learn The Command Line.
+For each weekly session, a link to the curriculum is provided in the class schedule. Having a chance to read through the curriculum and test out the code before class allows you to focus on the why and what of the code during the class session. It also gives you the opportunity to troubleshoot any errors in advance and prepare questions for clarification. 
 
 It is also recommended to review the additional readings/resources provided in the class schedule to deepen your understanding of the concepts and to find examples for how these methods are used in practical/research settings. 
 
@@ -71,23 +71,28 @@ Homework assignments:
 - **Each homework assignment is due by 10am before the start of class**. 
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
-             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R). 
+             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
     - Due week 3: 
-        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
-    - Due weeks 4 - 11: Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
-        - You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
-- Note: These weekly homework assignments are not meant to be tricky. You will basically be copying the code from the curriculum. However, you may hit errors in your code. This could be a simple error due to syntax or something more complicated. I want to see how you worked through that error. You can share links to solutions you found online. The point is to share your process! You are more likely to encounter errors when you use your own dataset. However, once you know what you are working on for your final project, I recommend using your final project dataset to try the homework so you can get feedback from me and also get a head start of completing the final project assignment. 
+        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Due weeks 4 - 11: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
+Final
+<br> 
 
+For the final assignment, you have two options to select from:
+- A two-hour, fast-paced, final exam scheduled during exam week
+- A final research project, due week 14 (4/27)
 
-Final project: For the final project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final draft will be shared via your GitHub account. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
+*You must let me know by week 4 (2/9) which final assignment you plan on doing. You will not be allowed to change your mind after that date.* 
+
+For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown and shared on your GitHub account and will include text (2,000 words) and your code. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
 
 - Final project deliverables and grade distribution: 
     - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
-    - Due week 8 (40 points): Project proposal **due by 10am before the start of class.**
-     - Due week 12 (40 points): Final project** due by 10am before the start of class.**
-     - Due week 12 (10 points): In-class project presentations. 
+    - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
+     - Due week 14 (55 points): Final project **due by 10am before the start of class.**
+     - Due week 14 (10 points): In-class project presentations. 
 
      <br>
 
@@ -96,7 +101,7 @@ Final project: For the final project, you will pair a method of data collection 
 
 - Class participation 10%
 - Homework assignments 40%
-- Final project 50%
+- Final exam or research project 50%
 
 <br>
 
@@ -130,7 +135,7 @@ This week, we will review the syllabus and the course objectives. We will also d
 - Requirement in two steps: 
     - Due by Friday 1/20 at 11:59pm:
         - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-        - Accept [this dummy assignment](https://classroom.github.com/a/ImDJRwfh) so I can add you to our GitHub organization
+        - Accept [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our GitHub organization
     - Due by Sunday 1/22 at 11:59pm:
         - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
 
@@ -145,7 +150,7 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
@@ -172,7 +177,7 @@ We will also get started with learning some basic Python commands using [Jupyter
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
@@ -193,8 +198,7 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/HxXtJMlE).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice.  
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment.  
 - Final project deliverable:
     - Schedule a meeting with me to discuss ideas for your final project 
 - Additional readings/resources (not required, but useful!):
@@ -220,8 +224,7 @@ We will be using the Pandas and Plotly Python libraries to help us achieve our d
     - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/YKHVp4b_).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
@@ -241,8 +244,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
 - Assignments (due by 10am on the day of class):
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/K1bJ8ev-).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
@@ -263,8 +265,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Web Scraping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) parts [I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) & [II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/03-Web-Scraping-Part2.html)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/bQcsUg5o).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Looking ahead:
     - In week 9, we will work with the Twitter API. It can take a few weeks to get approved for a researcher account, so I suggest getting started now. Follow [these instructions](https://developer.twitter.com/en/products/twitter-api/academic-research/application-info) to apply!
 - Additional readings/resources (not required, but useful!):
@@ -291,9 +292,9 @@ This week, we will learn how to make data requests from an Application Programmi
     - How to find APIs?
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
+    - Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)
 - Assignments (due by 10am on the day of class):
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/dGItNBTB).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Final project deliverable:
     - Project proposals due
 - Additional readings/resources (not required, but useful!):
@@ -322,8 +323,7 @@ This week, we will learn how to make data requests from the Twitter API using tw
 -  Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Twitter Data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html) (Twitter API setup, Data collection & Analysis, Data Sharing)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/yZsoL-5U).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - [twarc documentation](https://twarc-project.readthedocs.io/en/latest/)
@@ -363,9 +363,8 @@ This week, we will learn how to perform a sentiment analysis using Twitter data.
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
-- Assignments due before class:
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/1JcvZSoP).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+- Assignments (due by 10am on the day of class):
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Analytics Vidhya: [Performing Sentiment Analysis Using Twitter Data!](https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/)
@@ -392,9 +391,8 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
-- Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/SkwxPH21).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+- Assignments (due by 10am on the day of class):
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Brandon Rose: [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna)
@@ -423,9 +421,8 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling Overview](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/06-Topic-Modeling-Overview.html) & [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html)
-- Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/8c5WZwWm).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+- Assignments (due by 10am on the day of class):
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Explainers:
         - Evans School Policy Analysis & Research Group (EPAR), University of Washington: [Guide to Topic Modeling for Qualitative Research – Building the Model (Part 1)](https://epar.evans.uw.edu/blog/guide-topic-modeling-qualitative-research-building-model-part-1)
@@ -458,9 +455,8 @@ For our final course content week, we will learn about term frequency-inverse do
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
-- Assignments due before class:
-   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly [GitHub assignment link](https://classroom.github.com/a/ebRfjrYa).
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
+- Assignments (due by 10am on the day of class):
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Analytics Vidhya:[ Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)
@@ -477,6 +473,9 @@ For our final course content week, we will learn about term frequency-inverse do
 
 - Final projects due. 
 - Final project in class presentations.
+
+**Exam Week**
+- Final exam date TBD
 
 ---
 <br>
