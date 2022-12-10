@@ -77,14 +77,14 @@ Homework assignments:
     - Due weeks 4 - 11: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
-Final
+Final:
 <br> 
 
 For the final assignment, you have two options to select from:
 - A two-hour, fast-paced, final exam scheduled during exam week
 - A final research project, due week 14 (4/27)
 
-*You must let me know by week 4 (2/9) which final assignment you plan on doing. You will not be allowed to change your mind after that date.* 
+Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment. *You must let me know by week 4 (2/9) which final assignment you plan on doing. You will not be allowed to change your mind after that date.* 
 
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown and shared on your GitHub account and will include text (2,000 words) and your code. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
 
