@@ -72,9 +72,9 @@ Homework assignments:
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
              - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
-    - Due week 3: 
+    - Due week 4: 
         - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
-    - Due weeks 4 - 11: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+    - Due weeks 5 - 12: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
 Final:
@@ -177,7 +177,7 @@ We will also get started with learning some basic Python commands using [Jupyter
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - NO ASSIGNMENTS THIS WEEK!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
@@ -198,7 +198,7 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment.  
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)  
 - Final project deliverable:
     - Schedule a meeting with me to discuss ideas for your final project 
 - Additional readings/resources (not required, but useful!):
@@ -473,6 +473,9 @@ For our final course content week, we will learn about term frequency-inverse do
 
 - Final projects due. 
 - Final project in class presentations.
+
+- Assignments (due by 10am on the day of class):
+    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment.
 
 **Exam Week**
 - Final exam date TBD
