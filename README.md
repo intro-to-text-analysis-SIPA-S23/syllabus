@@ -148,7 +148,7 @@ This week, we will learn the command line, which is a way of interacting with yo
     - What is the command line and why is it relevant to Python?
     - Using git bash (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
 - Curriculum for this session:
-    - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
+    - DHRI: ["Introduction to the Command Line"](https://curriculum.dhinstitutes.org/workshops/command-line/)
 - Assignments (due by 10am on the day of class): 
     - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
