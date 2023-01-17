@@ -67,14 +67,14 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 
 Homework assignments:
-- There are 10 homework assignments, each worth 10 points.
+- There are 12 homework assignments, each worth 10 points.
 - **Each homework assignment is due by 10am before the start of class**. 
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
              - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
     - Due week 4: 
         - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
-    - Due weeks 5 - 12: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+    - Due weeks 5 - 14: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
 Final:
