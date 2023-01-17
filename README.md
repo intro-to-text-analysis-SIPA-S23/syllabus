@@ -86,13 +86,13 @@ For the final assignment, you have two options to select from:
 
 Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment. *You must let me know by week 4 (2/9) which final assignment you plan on doing. You will not be allowed to change your mind after that date.* 
 
-For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. A more detailed assignment sheet will be distributed during our week 2 session but you can start thinking of possible research questions by reviewing some of the studies shared throughout the course schedule below. Here are some examples of possible topics: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act.  
+For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis on a collection of Tweets connected to the UN COP27 meetings; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
     - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
     - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
-     - Due week 14 (55 points): Final project **due by 10am before the start of class.**
-     - Due week 14 (10 points): In-class project presentations. 
+     - Due week 14 (60 points): Final project **due by 10am before the start of class.**
+     - Due week 14 (5 points): In-class project presentations. 
 
      <br>
 
@@ -198,9 +198,10 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)  
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
 - Final project deliverable:
-    - Schedule a meeting with me to discuss ideas for your final project 
+    - Schedule a meeting with me [here](https://calendly.com/rkrisel-1/final?month=2023-02) to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
