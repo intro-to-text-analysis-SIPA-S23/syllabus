@@ -67,7 +67,7 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 
 Homework assignments:
-- There are 12 homework assignments, each worth 10 points.
+- There are 12 homework assignments, each worth 10 points. You only need to complete 10 out of the 12 homework assignments. You cannot skip the assignments for weeks 2 & 4. 
 - **Each homework assignment is due by 10am before the start of class**. 
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
