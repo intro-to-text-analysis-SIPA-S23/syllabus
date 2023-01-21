@@ -117,7 +117,7 @@ Bringing a laptop computer to class is a requirement for this course. By week 2,
 To facilate communication during our class sessions, I created this [Slack space](https://join.slack.com/t/s23introtexta-tbs2408/shared_invite/zt-1nqq3v878-Pszgu7RhJ7dnlqP1vvfpnw). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
 <br>
 
-I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class** time to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. 
+I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class time** to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. 
 
 <br>
 
