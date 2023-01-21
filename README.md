@@ -166,37 +166,34 @@ This week, we will learn the command line, which is a way of interacting with yo
 
 This week, we will learn how to use Git and Github, which are powerful tools for collaborative and individual projects. Git is a version control software that aids with tracking changes made to a set of files over time. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments with me. Having a GitHub page with evidence of your programming work can serve as a programming portfolio when applying for jobs. 
 
-We will also get started with learning some basic Python commands using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
-
+We will also get started with learning some basic Python commands. 
 - Topics covered:
     - What are Git and Github?
     - How to use Git for version control?
     - How to download and update a Github repository? 
-    - Python basics: Intro to Jupyter Notebooks, Python Variables, Data Types, String Methods
+    - Python basics
 - Curriculum for this session:
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
+    - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists) 
 - Assignments (due by 10am on the day of class):
     - NO ASSIGNMENTS THIS WEEK!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
-        - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
-        - DHRI: [Short Introduction to Jupyter Notebooks](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/)
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
         - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
 
 **Week 4 (week of 2/9): Python Basics II**
 
-This week, we will continue our exploration of Python basics in Jupyter Notebooks. 
+This week, we will continue our exploration of Python basics. 
 
 - Topics covered:
-    - Python basics: Files and Character Encoding; Python Comparisons and Conditionals; Python Lists and Loops; Python Lists and Loops (Cont.); Python Dictionaries; Python Functions; Common Python Errors
+    - Python basics
     - How to become an an expert troubleshooter and why that is more important than learning how to write code from scratch as a beginner
-    - Using Markdown in Jupyter Notebooks
+   
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
-    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
+    - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (loops - objects)
 - Assignments (due by 10am on the day of class):
     - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
     - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
@@ -204,8 +201,8 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Schedule a meeting with me [here](https://calendly.com/rkrisel-1/final?month=2023-02) to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-        - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
         - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
     - Cheat sheets:
         - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
@@ -216,6 +213,9 @@ This week, we will review the principles of data wrangling, cleaning, analysis, 
 
 We will be using the Pandas and Plotly Python libraries to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas and Plotly that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. Plotly is a data visualization library. 
 
+We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
+
+
 - Topics covered:
     - Working with tabular data (a.k.a., spreadsheets)
     - The data process: wrangling, cleaning, analysis, and visualization
@@ -224,6 +224,7 @@ We will be using the Pandas and Plotly Python libraries to help us achieve our d
 - Curriculum for this session:
     - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
+    - DHRI: [Short Introduction to Jupyter Notebooks](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
@@ -241,9 +242,11 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Working with text-as-data
     - Cleaning and standardizing text data
     - Preparing texts for computational analysis
-    - Basic text analysis tools 
+    - Basic text analysis tools
+    - Using Markdown in Jupyter Notebooks 
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
+    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
