@@ -150,7 +150,7 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://curriculum.dhinstitutes.org/workshops/command-line/)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R)  (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
@@ -198,7 +198,7 @@ This week, we will continue our exploration of Python basics in Jupyter Notebook
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
     - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
     - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
 - Final project deliverable:
     - Schedule a meeting with me [here](https://calendly.com/rkrisel-1/final?month=2023-02) to discuss ideas for your final research project, if you are selecting the research project as your final assignment
