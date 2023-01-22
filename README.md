@@ -123,6 +123,10 @@ I will use our Slack space **during our class time** to share files, links, and 
 
 **<div align="center">I will not check this Slack space outside of our class sessions. Do not reach out to me on Slack outside of our class session. Please email me instead!</div>**
 
+<br>
+
+Slack ([macOS](https://slack.com/downloads/mac) / [Windows](https://slack.com/downloads/windows)
+
 
 
 ---
@@ -214,9 +218,7 @@ This week, we will continue our exploration of Python basics.
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
-    - Cheat sheets:
-        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
+      
 
 **Week 5 (2/16): Principles of data analysis: Data wrangling, cleaning, analysis, and visualization with the Pandas and Plotly Libraries**
 
@@ -239,6 +241,10 @@ We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-int
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
+    - Tutorials:
+    - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
+    - Cheat sheets:
+        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
         - Stack Abuse: [Guide to Data Visualization in Python with Pandas](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
