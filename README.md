@@ -125,7 +125,7 @@ I will use our Slack space **during our class time** to share files, links, and 
 
 <br>
 
-Slack ([macOS](https://slack.com/downloads/mac) / [Windows](https://slack.com/downloads/windows))
+Slack download: ([macOS](https://slack.com/downloads/mac) / [Windows](https://slack.com/downloads/windows))
 
 
 
