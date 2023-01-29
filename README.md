@@ -194,7 +194,7 @@ We will also get started with learning some basic Python commands.
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
-        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
+     
 
 **Week 4 (week of 2/9): Python Basics II**
 
@@ -239,7 +239,8 @@ We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-int
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
-    - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
+        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
+        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
     - Cheat sheets:
         - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
     - Explainers: 
