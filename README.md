@@ -71,9 +71,9 @@ Homework assignments:
 - **Each homework assignment is due by 10am before the start of class**. 
     - Due week 2: 
         - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
-             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi). 
+             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R). 
     - Due week 4: 
-        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
     - Due weeks 5 - 14: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
@@ -113,6 +113,18 @@ Bringing a laptop computer to class is a requirement for this course. By week 2,
 - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
 - Python and Anaconda ([macOs](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
 
+## Class Slack Space
+To facilitate communication, I created this [Slack space](https://join.slack.com/t/s23introtexta-tbs2408/shared_invite/zt-1nqq3v878-Pszgu7RhJ7dnlqP1vvfpnw). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
+<br>
+
+I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class time** to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. You may also post troubleshooting questions in the #general channel outside of class sessions. I will check the Slack channel at least once a day. 
+
+<br>
+
+
+Slack download: ([macOS](https://slack.com/downloads/mac) / [Windows](https://slack.com/downloads/windows))
+
+
 
 ---
 
@@ -135,7 +147,7 @@ This week, we will review the syllabus and the course objectives. We will also d
 - Requirement in two steps: 
     - Due by Friday 1/20 at 11:59pm:
         - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-        - Accept [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our GitHub organization
+        - Accept [this dummy assignment](https://classroom.github.com/a/ImDJRwfh) so I can add you to our GitHub organization
     - Due by Sunday 1/22 at 11:59pm:
         - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
 
@@ -148,9 +160,9 @@ This week, we will learn the command line, which is a way of interacting with yo
     - What is the command line and why is it relevant to Python?
     - Using git bash (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
 - Curriculum for this session:
-    - DHRI: ["Introduction to the Command Line"](https://curriculum.dhinstitutes.org/workshops/command-line/)
+    - DHRI: ["Introduction to the Command Line"](https://gc-dri.github.io/Dhrift-GC/workshops/command-line/)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R)  (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
@@ -166,55 +178,53 @@ This week, we will learn the command line, which is a way of interacting with yo
 
 This week, we will learn how to use Git and Github, which are powerful tools for collaborative and individual projects. Git is a version control software that aids with tracking changes made to a set of files over time. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments with me. Having a GitHub page with evidence of your programming work can serve as a programming portfolio when applying for jobs. 
 
-We will also get started with learning some basic Python commands using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
-
+We will also get started with learning some basic Python commands. 
 - Topics covered:
     - What are Git and Github?
     - How to use Git for version control?
     - How to download and update a Github repository? 
-    - Python basics: Intro to Jupyter Notebooks, Python Variables, Data Types, String Methods
+    - Python basics
 - Curriculum for this session:
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to use Jupyter Notebooks - Python String Methods) 
+    - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists) 
 - Assignments (due by 10am on the day of class):
     - NO ASSIGNMENTS THIS WEEK!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
-        - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
-        - DHRI: [Short Introduction to Jupyter Notebooks](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/)
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
-        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
+     
 
 **Week 4 (week of 2/9): Python Basics II**
 
-This week, we will continue our exploration of Python basics in Jupyter Notebooks. 
+This week, we will continue our exploration of Python basics. 
 
 - Topics covered:
-    - Python basics: Files and Character Encoding; Python Comparisons and Conditionals; Python Lists and Loops; Python Lists and Loops (Cont.); Python Dictionaries; Python Functions; Common Python Errors
+    - Python basics
     - How to become an an expert troubleshooter and why that is more important than learning how to write code from scratch as a beginner
-    - Using Markdown in Jupyter Notebooks
+   
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
-    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
+    - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (loops - objects)
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
     - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
 - Final project deliverable:
     - Schedule a meeting with me [here](https://calendly.com/rkrisel-1/final?month=2023-02) to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-        - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
-        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
-    - Cheat sheets:
-        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
+      
 
 **Week 5 (2/16): Principles of data analysis: Data wrangling, cleaning, analysis, and visualization with the Pandas and Plotly Libraries**
 
 This week, we will review the principles of data wrangling, cleaning, analysis, and visualization. Wrangling is the process of transforming data from a raw format into one that is legible. Cleaning entails making sure our data does not include inconsistencies such as duplicate entries or information stored in the wrong format. Analysis and visualizations are ways of telling a story with the data, and uncovering insights that may lead to new research questions. 
 
 We will be using the Pandas and Plotly Python libraries to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas and Plotly that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. Plotly is a data visualization library. 
+
+We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
+
 
 - Topics covered:
     - Working with tabular data (a.k.a., spreadsheets)
@@ -223,10 +233,18 @@ We will be using the Pandas and Plotly Python libraries to help us achieve our d
     - Plotly basics
 - Curriculum for this session:
     - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
+      - Download dataset [here](https://drive.google.com/drive/folders/17cAPHux4ileepqNce_5FdYoQaopK3wO5)
+      - Download Jupiter Notebook [here](https://drive.google.com/drive/folders/1wWfkCOdx_ynex7W9Q_hh-WvSdM2wy3kB)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
+    - DHRI: [Short Introduction to Jupyter Notebooks](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
+    - Tutorials:
+        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
+        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
+    - Cheat sheets:
+        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
         - Stack Abuse: [Guide to Data Visualization in Python with Pandas](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
@@ -241,9 +259,11 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Working with text-as-data
     - Cleaning and standardizing text data
     - Preparing texts for computational analysis
-    - Basic text analysis tools 
+    - Basic text analysis tools
+    - Using Markdown in Jupyter Notebooks 
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
+    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
