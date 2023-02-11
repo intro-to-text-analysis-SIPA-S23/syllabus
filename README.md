@@ -232,7 +232,7 @@ We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-int
     - Pandas basics
     - Plotly basics
 - Curriculum for this session:
-    - Rebecca Krisel's [intro-pandas-dri-2022](https://github.com/rskrisel/intro-pandas-dri-2022)
+    - Rebecca Krisel's [Intro to Pandas](https://gc-dri.github.io/Dhrift-GC/workshops/pandas/)
       - Download dataset [here](https://drive.google.com/drive/folders/17cAPHux4ileepqNce_5FdYoQaopK3wO5)
       - Download Jupiter Notebook [here](https://drive.google.com/drive/folders/1wWfkCOdx_ynex7W9Q_hh-WvSdM2wy3kB)
     - Kaggle's [Plotly Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook)
