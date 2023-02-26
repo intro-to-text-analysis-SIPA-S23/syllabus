@@ -284,7 +284,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
     - What are the laws and ethics governing web scraping?
     - How to web scrape?
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Web Scraping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) parts [I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) & [II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/03-Web-Scraping-Part2.html)
+    - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Looking ahead:
@@ -293,6 +293,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
     - Tutorials: 
         - Datacamp: [Scraping the Amazon Best Selling Books](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
         - Dataquest: [Tutorial: Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/)
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Web Scraping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) parts [I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/02-Web-Scraping-Part1.html) & [II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/03-Web-Scraping-Part2.html)
     - Explainers: 
         - AI Multiple: [Watch-outs for Legal and Ethical Web Scraping in 2022](https://research.aimultiple.com/web-scraping-ethics/#:~:text=Scraping%20publicly%20available%20information%20on,personally%20identifiable%20information%20(PII).)
 
