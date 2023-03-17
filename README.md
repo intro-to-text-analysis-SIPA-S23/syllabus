@@ -343,11 +343,12 @@ This week, we will learn how to make data requests from the Twitter API using tw
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, Youtube, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Twitter Data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html) (Twitter API setup, Data collection & Analysis, Data Sharing)
+    - Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter/blob/main/README.md)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+        -  Melanie Walsh, _Introduction to Cultural Analytics_, [Twitter Data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html) (Twitter API setup, Data collection & Analysis, Data Sharing)
         - [twarc documentation](https://twarc-project.readthedocs.io/en/latest/)
         - University of Nevada, Las Vegas: [Twitter Data Collection Using twarc](https://www.library.unlv.edu/sites/default/files/inline-images/l2AivT8YAnUsEau6TjjDvXmXIAl9fAVmElTlxnNhB5lDSWaKTf.pdf) 
         - Collecting data from other social media platforms:
@@ -402,7 +403,32 @@ This week, we will learn how to perform a sentiment analysis using Twitter data.
         - Yu, Xiaoyan, Shiyong Wu, Wei Chen, and Mingxi Huang. "Sentiment Analysis of Public Opinions on the Higher Education Expansion Policy in China." _SAGE Open_ 11, no. 3 (July 1, 2021): 21582440211040776.[ https://doi.org/10.1177/21582440211040778](https://doi.org/10.1177/21582440211040778).
             - "This study looks at public opinions on the higher education expansion policy that was specifically implemented by China's government to navigate graduate employment difficulties against the impact of COVID-19."
 
-**Week 11 (4/6): Text analysis: Named Entity Recognition**
+**Week 11 (4/6): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
+
+For our final course content week, we will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
+
+- Topics covered: 
+    - What is TF-IDF?
+    - What are practical applications of TF-IDF?
+    - How to perform TF-IDF on a collection of speeches?
+    - How to use this method with other text data sources?
+- Curriculum for this session:
+    - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
+- Assignments (due by 10am on the day of class):
+   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Additional readings/resources (not required, but useful!):
+    - Tutorials:
+        - Analytics Vidhya:[ Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)
+        - Nick Becker: [Clustering US Laws using TF-IDF and K-Means](https://beckernick.github.io/_posts/2016-08-17-law-clustering/)
+        - Programming Historian: [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
+        - Towards Data Science: [TFIDF Python Example](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
+    - Explainer:
+        - Capital One: [Understanding TF-IDF for Machine Learning](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/)
+    - Studies: 
+        - Mee, Alexander, Elmina Homapour, Francisco Chiclana, and Ofer Engel. "Sentiment Analysis Using TF-IDF Weighting of UK MPs' Tweets on Brexit" _Knowledge-Based Systems_ 228 (September 27, 2021): 107238.[ https://doi.org/10.1016/j.knosys.2021.107238](https://doi.org/10.1016/j.knosys.2021.107238).
+            - This study uses TF-IDF and sentiment analysis to study UK MPs' Tweets on Brexit.
+
+**Week 12 (4/13): Text analysis: Named Entity Recognition**
 
 This week, we will learn how to apply Named Entity Recognition (NER) to text files. NER locates and classifies named entities mentioned in unstructured text into preset categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, and other categories. It's a useful way to quickly parse out the who, what, where, when, how much, etc… in a large body of text. We will use the spaCy Python library to perform NER. 
 
@@ -432,7 +458,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
         - Vychegzhanin, Sergey, and Evgeny Kotelnikov. "Comparison of Named Entity Recognition Tools Applied to News Articles." In _2019 Ivannikov Ispras Open Conference (ISPRAS)_, 72-77, 2019.[ https://doi.org/10.1109/ISPRAS47671.2019.00017](https://doi.org/10.1109/ISPRAS47671.2019.00017).
             - A review of different NER tools.
 
-**Week 12 (4/13): Text analysis: Topic Modeling**
+**Week 13 (4/20): Text analysis: Topic Modeling**
 
 This week, we will learn how to use topic modeling to quickly parse out the primary topics across a collection of text files. Topic modeling can help ​​identify clusters of words that show up together in statistically meaningful ways throughout a corpus of text. We will use the Tomopy Python library for topic modeling. 
 
@@ -466,30 +492,6 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
         - Walker, Richard M., Yanto Chandra, Jiasheng Zhang, and Arjen van Witteloostuijn. "Topic Modeling the Research-Practice Gap in Public Administration." _Public Administration Review_ 79, no. 6 (2019): 931-37.[ https://doi.org/10.1111/puar.13095](https://doi.org/10.1111/puar.13095).
             * This study uses topic modeling to highlight which areas of public administration receive more attention than others. 
 
-**Week 13 (4/20): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
-
-For our final course content week, we will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
-
-- Topics covered: 
-    - What is TF-IDF?
-    - What are practical applications of TF-IDF?
-    - How to perform TF-IDF on a collection of speeches?
-    - How to use this method with other text data sources?
-- Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
-- Additional readings/resources (not required, but useful!):
-    - Tutorials:
-        - Analytics Vidhya:[ Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)
-        - Nick Becker: [Clustering US Laws using TF-IDF and K-Means](https://beckernick.github.io/_posts/2016-08-17-law-clustering/)
-        - Programming Historian: [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
-        - Towards Data Science: [TFIDF Python Example](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
-    - Explainer:
-        - Capital One: [Understanding TF-IDF for Machine Learning](https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/)
-    - Studies: 
-        - Mee, Alexander, Elmina Homapour, Francisco Chiclana, and Ofer Engel. "Sentiment Analysis Using TF-IDF Weighting of UK MPs' Tweets on Brexit" _Knowledge-Based Systems_ 228 (September 27, 2021): 107238.[ https://doi.org/10.1016/j.knosys.2021.107238](https://doi.org/10.1016/j.knosys.2021.107238).
-            - This study uses TF-IDF and sentiment analysis to study UK MPs' Tweets on Brexit.
 
 **Week 14 (4/27)**
 
