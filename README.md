@@ -91,8 +91,8 @@ For the final research project, you will pair a method of data collection with a
 - Final project deliverables and grade distribution: 
     - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
     - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
-     - Due week 14 (60 points): Final project **due by 10am before the start of class.**
-     - Due week 14 (5 points): In-class project presentations. 
+     - Due week 14 (65 points): Final project **due by 10am before the start of class.**
+     - Due week 14 (5 bonus points): In-class project presentations. 
 
      <br>
 
