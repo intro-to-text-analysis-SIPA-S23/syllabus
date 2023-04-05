@@ -438,11 +438,12 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
     - How to perform NER with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
+    - Rebecca Krisel, [NER Workshop](https://github.com/rskrisel/NER_workshop)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
         - Brandon Rose: [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna)
         - Geeks for Geeks: [Named Entity Recognition](https://www.geeksforgeeks.org/named-entity-recognition/)
         - Mattingly, William._ [Introduction to Named Entity Recognition](http://ner.pythonhumanities.com)_, 2021 (2nd ed.).
