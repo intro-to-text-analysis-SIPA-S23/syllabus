@@ -469,7 +469,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to perform Topic Modeling with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling Overview](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/06-Topic-Modeling-Overview.html) & [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html)
+    - Rebecca Krisel, [Topic Modeling with Tomopy](https://github.com/rskrisel/topic_modeling_workshop)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
@@ -477,6 +477,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
         - Evans School Policy Analysis & Research Group (EPAR), University of Washington: [Guide to Topic Modeling for Qualitative Research – Building the Model (Part 1)](https://epar.evans.uw.edu/blog/guide-topic-modeling-qualitative-research-building-model-part-1)
         - Scott Weingart: [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
     - Tutorials:
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling Overview](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/06-Topic-Modeling-Overview.html) & [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling and Reddit](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/10-Topic-Modeling-CSV.html)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Topic Modeling and Twitter](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/11-Topic-Modeling-Time-Series.html)
         - Programming Historian: [Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
