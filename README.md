@@ -471,7 +471,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to perform Topic Modeling with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [Topic Modeling with Tomopy](https://github.com/rskrisel/topic_modeling_workshop)
+    - Rebecca Krisel, [Topic Modeling with Tomopy](https://github.com/rskrisel/topic_modeling_workshop). Copied from Melanie Walsh's [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html), but uses a different dataset.
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
