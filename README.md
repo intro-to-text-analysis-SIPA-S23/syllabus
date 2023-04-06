@@ -385,6 +385,7 @@ This week, we will learn how to perform a sentiment analysis using Twitter data.
     - How to perform sentiment analysis with Twitter data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
+    - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
@@ -413,11 +414,12 @@ For our final course content week, we will learn about term frequency-inverse do
     - How to perform TF-IDF on a collection of speeches?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
+    - Rebecca Krisel, [TF-IDF with Scikit-Learn](https://github.com/rskrisel/tf-idf/blob/main/README.md). Copied from Melanie Walsh's [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html). A few code updates were made to reflect the newest versions of Scikit-learn and Pandas. 
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
         - Analytics Vidhya:[ Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)
         - Nick Becker: [Clustering US Laws using TF-IDF and K-Means](https://beckernick.github.io/_posts/2016-08-17-law-clustering/)
         - Programming Historian: [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
