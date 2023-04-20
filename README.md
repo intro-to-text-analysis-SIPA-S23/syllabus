@@ -463,7 +463,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
 
 **Week 13 (4/20): Text analysis: Topic Modeling**
 
-This week, we will learn how to use topic modeling to quickly parse out the primary topics across a collection of text files. Topic modeling can help ​​identify clusters of words that show up together in statistically meaningful ways throughout a corpus of text. We will use the Tomopy Python library for topic modeling. 
+This week, we will learn how to use topic modeling to quickly parse out the primary topics across a collection of text files. Topic modeling can help ​​identify clusters of words that show up together in statistically meaningful ways throughout a corpus of text. We will use the Tomotopy Python library for topic modeling. 
 
 - Topics covered: 
     - What is Topic Modeling?
@@ -471,7 +471,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to perform Topic Modeling with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [Topic Modeling with Tomopy](https://github.com/rskrisel/topic_modeling_workshop). Copied from Melanie Walsh's [Topic Modeling with Tomopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html), but uses a different dataset.
+    - Rebecca Krisel, [Topic Modeling with Tomot0py](https://github.com/rskrisel/topic_modeling_workshop). Copied from Melanie Walsh's [Topic Modeling with Tomotopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html), but uses a different dataset.
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
